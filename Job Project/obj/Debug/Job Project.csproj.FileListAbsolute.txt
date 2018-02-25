@@ -1,0 +1,15 @@
+c:\users\raphael\documents\visual studio 2015\Projects\Job Project\Job Project\bin\Debug\Job Project.exe.config
+c:\users\raphael\documents\visual studio 2015\Projects\Job Project\Job Project\bin\Debug\Job Project.exe
+c:\users\raphael\documents\visual studio 2015\Projects\Job Project\Job Project\bin\Debug\Job Project.pdb
+c:\users\raphael\documents\visual studio 2015\Projects\Job Project\Job Project\obj\Debug\Job Project.csprojResolveAssemblyReference.cache
+c:\users\raphael\documents\visual studio 2015\Projects\Job Project\Job Project\obj\Debug\Job Project.exe
+c:\users\raphael\documents\visual studio 2015\Projects\Job Project\Job Project\obj\Debug\Job Project.pdb
+C:\Users\Raphael\Desktop\Job Project\Job Project\bin\Debug\Job Project.exe.config
+C:\Users\Raphael\Desktop\Job Project\Job Project\obj\Debug\Job Project.exe
+C:\Users\Raphael\Desktop\Job Project\Job Project\obj\Debug\Job Project.pdb
+C:\Users\Raphael\Desktop\Job Project\Job Project\obj\Debug\Job Project.csprojResolveAssemblyReference.cache
+C:\Users\Raphael\Desktop\Job Project\Job Project\bin\Debug\Job Project.exe
+C:\Users\Raphael\Desktop\Job Project\Job Project\bin\Debug\Job Project.pdb
+C:\Users\Raphael\Desktop\JobProject\Job Project\bin\Debug\Job Project.exe.config
+C:\Users\Raphael\Desktop\JobProject\Job Project\obj\Debug\Job Project.exe
+C:\Users\Raphael\Desktop\JobProject\Job Project\obj\Debug\Job Project.pdb
